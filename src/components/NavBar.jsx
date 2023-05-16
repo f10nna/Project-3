@@ -1,3 +1,4 @@
+import RestaurantCard from './RestaurantCard'
 function NavBar() {
   return (
     <div className="nav-bar">
