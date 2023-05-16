@@ -1,4 +1,4 @@
-function RestaurantList() {
+function RestaurantList({ restaurants }) {
   return (
     <div>
       <p>Restaurant List</p>
