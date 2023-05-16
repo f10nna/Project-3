@@ -96,5 +96,82 @@ export const restaurantData = [
     location: 'Palo Alto',
     cuisine: 'Mediterranean',
     image: 'https://example.com'
+  },
+  {
+    id: 15,
+    name: 'Wildseed',
+    location: 'San Francisco',
+    cuisine: 'Vegan',
+    image: 'https://example.com/wildseed.jpg'
+  },
+  {
+    id: 16,
+    name: '10 Butchers',
+    location: 'Mountain View',
+    cuisine: 'Korean',
+    image: 'https://example.com/10-butchers.jpg'
+  },
+  {
+    id: 17,
+    name: 'Ettan',
+    location: 'Palo Alto',
+    cuisine: 'Indian',
+    image: 'https://example.com/ettan.jpg'
+  },
+  {
+    id: 18,
+    name: 'Udon Mugizo',
+    location: 'Mountain View',
+    cuisine: 'Japanese',
+    image: 'https://example.com/udon-mugizo.jpg'
+  },
+  {
+    id: 19,
+    name: 'Dumpling Time',
+    location: 'San Francisco',
+    cuisine: 'Chinese',
+    image: 'https://example.com/dumpling-time.jpg'
+  },
+  {
+    id: 20,
+    name: 'Fogo De Chao',
+    location: 'San Jose',
+    cuisine: 'Brazilian',
+    image: 'https://example.com/fogo-de-chao.jpg'
+  },
+  {
+    id: 21,
+    name: 'Roma Antica',
+    location: 'San Francisco',
+    cuisine: 'Italian',
+    image: 'https://example.com/roma-antica.jpg'
+  },
+  {
+    id: 22,
+    name: 'Waterbar',
+    location: 'San Francisco',
+    cuisine: 'Seafood',
+    image: 'https://example.com/waterbar.jpg'
+  },
+  {
+    id: 23,
+    name: 'Steins Beer Garden',
+    location: 'Mountain View',
+    cuisine: 'German',
+    image: 'https://example.com/steins-beer-garden.jpg'
+  },
+  {
+    id: 24,
+    name: 'iTalico',
+    location: 'Palo Alto',
+    cuisine: 'Italian',
+    image: 'https://example.com/italico.jpg'
+  },
+  {
+    id: 25,
+    name: 'Vida Tapas',
+    location: 'Mountain View',
+    cuisine: 'Spanish',
+    image: 'https://example.com/vida-tapas.jpg'
   }
 ]
