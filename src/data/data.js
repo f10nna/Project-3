@@ -4,7 +4,8 @@ export const restaurantData = [
     name: 'Teleferic',
     location: 'Palo Alto',
     cuisine: 'Spanish',
-    image: 'https://example.com/teleferic.jpg'
+    image:
+      'https://static.wixstatic.com/media/9a2718_0dfc22e1d62541579c8c1e944eb2b180~mv2.jpg/v1/fill/w_1146,h_764,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a2718_0dfc22e1d62541579c8c1e944eb2b180~mv2.jpg'
   },
   {
     id: 2,
