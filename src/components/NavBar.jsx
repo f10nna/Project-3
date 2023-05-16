@@ -1,7 +1,7 @@
 function NavBar() {
   return (
     <div className="nav-bar">
-      <h1>TOP RESTAURANTS</h1>
+      <h1>25 Best Bay Area Restaurants</h1>
     </div>
   )
 }
