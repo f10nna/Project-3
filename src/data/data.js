@@ -12,7 +12,8 @@ export const restaurantData = [
     name: 'Doppio Zero',
     location: 'Mountain View',
     cuisine: 'Italian',
-    image: 'https://example.com/doppio-zero.jpg'
+    image:
+      'https://assets-global.website-files.com/620f06109ce7800bc67f7f12/62455e042bb4ee3c4c358183_DZ%20395%20Hayes%20St_9242_AB.jpg'
   },
   {
     id: 3,
