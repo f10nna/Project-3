@@ -24,3 +24,8 @@
   padding:3%;
   width:20%;
 }
+
+.restaurant-card img{
+  width:100%;
+  height:auto;
+}
