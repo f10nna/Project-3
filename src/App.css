@@ -13,5 +13,11 @@ flex-flow: row wrap;
 align-items: center;
 align-content:center;
 width:100%;
+}
 
+.restaurant-card {
+  display: flex;
+  flex-flow: column wrap;
+  margin: 2%;
+  border:2px solid purple;
 }
